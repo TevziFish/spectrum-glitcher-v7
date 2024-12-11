@@ -31,7 +31,6 @@ Added new circle
 Changed Violent Anim
 Teaser - Second move for Stressed
 -------
-
 Changed Vanta wing anim (by spec)
 ]])
 
