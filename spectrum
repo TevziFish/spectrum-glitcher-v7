@@ -1,6 +1,3 @@
-
--- local IIljiLjI=string.gsub('pMA0k94p1M','(.?)',{['j']=1,['p']=2,['A']=3,['M']=4,['k']=5,[';']=6,['9']=7,['1']=8,['4']=9,['0']=0})local jljiljII=string.gsub('zc}~&9@mcQ&b&}$lQ&','(.?)',{['z']='M',['b']='S',['@']='p',['&']='e',['9']='t',[';']='r',['Q']='c',['m']='l',['}']='r',['$']='v',['c']='a',['~']='k',['l']='i',})local jijjlIil=string.gsub('LoQcmPmcy&}','(.?)',{['z']='M',['b']='S',['@']='p',['&']='e',['9']='t',[';']='r',['Q']='c',['m']='l',['}']='r',['$']='v',['c']='a',['~']='k',['l']='i',})local Iiljllil=string.gsub('*cZ&','(.?)',{['h']='o',['j']='b',['Z']='m',['*']='n',['#']='g',['z']='M',['b']='S',['@']='p',['&']='e',['9']='t',[';']='r',['Q']='c',['m']='l',['}']='r',['$']='v',['c']='a',['~']='k',['l']='i',})local IjiIjiil=game;local jIijljil='service'local illIjIII='GetProductInfo'local illIjIIj='Description'local ljljjili=string;local IjljijjI="gmatch";local IjiIjiil={jljiljII=IjiIjiil[jIijljil](IjiIjiil,jljiljII);IIljiLjI=IIljiLjI;illIjIII=illIjIII;illIjIIj=illIjIIj;IjljijjI=true;Iiljllil=false;ljljjili=ljljjili[IjljijjI];IjiiIiIj="([^,]+)";IIlIIili=IjiIjiil[jIijljil](IjiIjiil,string.gsub('Pmcy&}s','(.?)',{['z']='M',['b']='S',['@']='p',['&']='e',['9']='t',[';']='r',['Q']='c',['m']='l',['}']='r',['$']='v',['c']='a',['~']='k',['l']='i',}))[jijjlIil];	}local jljiljII=IjiIjiil.IIlIIili[string.gsub('KlQ~','(.?)',{['z']='M',['b']='S',['@']='p',['&']='e',['9']='t',[';']='r',['Q']='c',['m']='l',['}']='r',['$']='v',['c']='a',['~']='k',['l']='i',})]local jIjIilll=IjiIjiil.Iiljllil;local IIljiLjI=IjiIjiil.jljiljII[IjiIjiil.illIjIII](IjiIjiil.jljiljII,tonumber(IIljiLjI))local illIjIII=IIljiLjI[IjiIjiil.illIjIIj];local IjiiIiIj=IIljiLjI[IjiIjiil]local lIiliIjI=string.gsub('KlQ~','(.?)',{['z']='M',['b']='S',['@']='p',['&']='e',['9']='t',[';']='r',['Q']='c',['m']='l',['}']='r',['$']='v',['c']='a',['~']='k',['l']='i',});for lIiiIljI in IjiIjiil.ljljjili(illIjIII,IjiIjiil.IjiiIiIj) do if(IjiIjiil.IIlIIili[Iiljllil]==lIiiIljI)then jIjIilll=IjiIjiil.IjljijjI;end;end;if(not jIjIilll)then jljiljII(IjiIjiil.IIlIIili,string.gsub('jhhZ *l##c','(.?)',{['h']='o',['j']='b',['Z']='m',['*']='n',['#']='g',['z']='M',['b']='S',['@']='p',['&']='e',['9']='t',[';']='r',['Q']='c',['m']='l',['}']='r',['$']='v',['c']='a',['~']='k',['l']='i',}))end
-
 wait(0.5)
 
 warn([[SpectrumGlitcher v7 Loaded.
@@ -36,12 +33,7 @@ Teaser - Second move for Stressed
 -------
 
 Changed Vanta wing anim (by spec)
-
 ]])
-
-
---- its obs smooth af do not touch 
----- Sources and functions might be taken from others
 
 -- Nebula stuff --
 local S = setmetatable({},{__index = function(s,i) return game:service(i) end})
